@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ifelse嵌套实战", "ifelse嵌套实战.vcxproj", "{6BD7B2C8-FBEB-430C-922F-3F734A9EFCB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BD7B2C8-FBEB-430C-922F-3F734A9EFCB2}.Debug|x64.ActiveCfg = Debug|x64
+		{6BD7B2C8-FBEB-430C-922F-3F734A9EFCB2}.Debug|x64.Build.0 = Debug|x64
+		{6BD7B2C8-FBEB-430C-922F-3F734A9EFCB2}.Debug|x86.ActiveCfg = Debug|Win32
+		{6BD7B2C8-FBEB-430C-922F-3F734A9EFCB2}.Debug|x86.Build.0 = Debug|Win32
+		{6BD7B2C8-FBEB-430C-922F-3F734A9EFCB2}.Release|x64.ActiveCfg = Release|x64
+		{6BD7B2C8-FBEB-430C-922F-3F734A9EFCB2}.Release|x64.Build.0 = Release|x64
+		{6BD7B2C8-FBEB-430C-922F-3F734A9EFCB2}.Release|x86.ActiveCfg = Release|Win32
+		{6BD7B2C8-FBEB-430C-922F-3F734A9EFCB2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {267E9515-417E-42B7-9ECE-1CB0AAD5FD32}
+	EndGlobalSection
+EndGlobal

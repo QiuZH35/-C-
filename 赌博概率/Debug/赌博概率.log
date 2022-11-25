@@ -1,0 +1,6 @@
+﻿  rand.c
+d:\vs2017data\restart study of c++\赌博概率\rand.c(10): warning C4013: “srand”未定义；假设外部返回 int
+d:\vs2017data\restart study of c++\赌博概率\rand.c(11): warning C4013: “rand”未定义；假设外部返回 int
+d:\vs2017data\restart study of c++\赌博概率\rand.c(9): warning C4244: “初始化”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\vs2017data\restart study of c++\赌博概率\rand.c(19): warning C4244: “初始化”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  赌博概率.vcxproj -> D:\vs2017Data\Restart study of c++\赌博概率\Debug\赌博概率.exe

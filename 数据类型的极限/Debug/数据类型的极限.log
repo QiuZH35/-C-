@@ -1,0 +1,3 @@
+﻿  极限.c
+d:\vs2017data\restart study of c++\数据类型的极限\极限.c(31): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+  数据类型的极限.vcxproj -> D:\vs2017Data\Restart study of c++\数据类型的极限\Debug\数据类型的极限.exe

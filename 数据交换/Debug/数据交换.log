@@ -1,0 +1,6 @@
+﻿  数据交换空间.cpp
+d:\vs2017data\restart study of c++\数据交换\数据交换空间.cpp(8): warning C4326: “main”的返回类型应为“int”而非“void”
+d:\vs2017data\restart study of c++\数据交换\数据交换空间.cpp(36): error C2371: “b”: 重定义；不同的基类型
+  d:\vs2017data\restart study of c++\数据交换\数据交换空间.cpp(10): note: 参见“b”的声明
+d:\vs2017data\restart study of c++\数据交换\数据交换空间.cpp(36): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\vs2017data\restart study of c++\数据交换\数据交换空间.cpp(36): error C2143: 语法错误: 缺少“;”(在“常数”的前面)

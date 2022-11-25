@@ -1,0 +1,7 @@
+﻿  字符与字符串.cpp
+d:\vs2017data\restart study of c++\字符and字符串\字符与字符串.cpp(6): warning C4326: “main”的返回类型应为“int”而非“void”
+d:\vs2017data\restart study of c++\字符and字符串\字符与字符串.cpp(9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\vs2017data\restart study of c++\字符and字符串\字符与字符串.cpp(9): note: 请考虑在格式字符串中使用“%zd”
+d:\vs2017data\restart study of c++\字符and字符串\字符与字符串.cpp(11): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\vs2017data\restart study of c++\字符and字符串\字符与字符串.cpp(11): note: 请考虑在格式字符串中使用“%zd”
+  字符and字符串.vcxproj -> D:\vs2017Data\Restart study of c++\字符and字符串\x64\Debug\字符and字符串.exe

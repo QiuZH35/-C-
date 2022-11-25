@@ -1,0 +1,5 @@
+﻿  数据.c
+d:\vs2017data\restart study of c++\常量内存原理\常量内存原理\数据.c(19): warning C4101: “a”: 未引用的局部变量
+d:\vs2017data\restart study of c++\常量内存原理\常量内存原理\数据.c(19): warning C4101: “b”: 未引用的局部变量
+d:\vs2017data\restart study of c++\常量内存原理\常量内存原理\数据.c(19): warning C4101: “c”: 未引用的局部变量
+  常量内存原理.vcxproj -> D:\vs2017Data\Restart study of c++\常量内存原理\Debug\常量内存原理.exe

@@ -1,0 +1,3 @@
+﻿  printf.c
+d:\vs2017data\restart study of c++\printf.c\printf.c(7): warning C4305: “初始化”: 从“double”到“float”截断
+  printf.c.vcxproj -> D:\vs2017Data\Restart study of c++\printf.c\Debug\printf.c.exe

@@ -1,0 +1,8 @@
+﻿  宽字符处理.c
+d:\vs2017data\restart study of c++\宽字符处理\宽字符处理.c(44): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“unsigned short *”
+  d:\vs2017data\restart study of c++\宽字符处理\宽字符处理.c(44): note: 请考虑在格式字符串中使用“%ls”
+  d:\vs2017data\restart study of c++\宽字符处理\宽字符处理.c(44): note: 请考虑在格式字符串中使用“%lls”
+  d:\vs2017data\restart study of c++\宽字符处理\宽字符处理.c(44): note: 请考虑在格式字符串中使用“%Ls”
+  d:\vs2017data\restart study of c++\宽字符处理\宽字符处理.c(44): note: 请考虑在格式字符串中使用“%ws”
+d:\vs2017data\restart study of c++\宽字符处理\宽字符处理.c(45): warning C4133: “函数”: 从“unsigned short [5]”到“const char *const ”的类型不兼容
+  宽字符处理.vcxproj -> D:\vs2017Data\Restart study of c++\宽字符\Debug\宽字符处理.exe

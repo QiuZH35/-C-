@@ -1,0 +1,5 @@
+﻿  逻辑嵌套.c
+d:\vs2017data\restart study of c++\逻辑嵌套\逻辑嵌套.c(43): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\vs2017data\restart study of c++\逻辑嵌套\逻辑嵌套.c(51): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\vs2017data\restart study of c++\逻辑嵌套\逻辑嵌套.c(56): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  逻辑嵌套.vcxproj -> D:\vs2017Data\Restart study of c++\逻辑嵌套\Debug\逻辑嵌套.exe

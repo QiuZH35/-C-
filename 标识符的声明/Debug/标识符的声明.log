@@ -1,0 +1,10 @@
+﻿  标识符.cpp
+d:\vs2017data\restart study of c++\标识符的声明\标识符.cpp(7): warning C4326: “main”的返回类型应为“int”而非“void”
+d:\vs2017data\restart study of c++\标识符的声明\标识符.cpp(10): warning C4101: “_3a”: 未引用的局部变量
+d:\vs2017data\restart study of c++\标识符的声明\标识符.cpp(17): warning C4101: “从前有个恶心的面试官搞得我痛不欲生”: 未引用的局部变量
+d:\vs2017data\restart study of c++\标识符的声明\标识符.cpp(15): warning C4101: “$qwe”: 未引用的局部变量
+d:\vs2017data\restart study of c++\标识符的声明\标识符.cpp(11): warning C4101: “num”: 未引用的局部变量
+d:\vs2017data\restart study of c++\标识符的声明\标识符.cpp(12): warning C4101: “main”: 未引用的局部变量
+  标识符的声明.cpp
+  正在生成代码...
+  标识符的声明.vcxproj -> D:\vs2017Data\Restart study of c++\标识符的声明\Debug\标识符的声明.exe
